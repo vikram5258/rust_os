@@ -1,4 +1,4 @@
-# Rust-OS
+# My Rust-OS
 
 Rust-OS is a fully Rust-based operating system built from scratch. This project aims to explore the capabilities of the Rust programming language in systems programming and to provide a learning resource for those interested in OS development.
 
