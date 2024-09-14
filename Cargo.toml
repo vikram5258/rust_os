@@ -1,0 +1,14 @@
+[package]
+name = "rust_os"
+version = "0.1.0"
+edition = "2021"
+authors = ["vikram yellasiri <vikramyellasiri@gmail.com>"]
+
+#profile used for cargo buils
+[profile.dev]
+panic = "abort"
+
+#profile used for cargo build --release
+[profile.release]
+panic = "abort"
+[dependencies]
